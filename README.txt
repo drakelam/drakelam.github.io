@@ -1,13 +1,15 @@
 
 TITLE: 
-Marble - Fully Responsive Free HTML5 template
+Share software, help how to create your own world.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+  Library application
+	DESIGNED & DEVELOPED by DRAKE LAM
+		
+	Website: 		https://drakelam.github.io/
+	Email: 			dragamestudio@gmail.com
+	Twitter: 		http://twitter.com/dragamestudio
+	Facebook: 		https://www.facebook.com/dragamestudio
 
 
 CREDITS:
