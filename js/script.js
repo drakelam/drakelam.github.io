@@ -1,5 +1,5 @@
 $(function() {
-	var textOpts = ["I am Drake Lam...", "Full stack developer (Swift, Django)", "Knows android app development", "Game - Software developer", "Love developing apps and games.", "Share software, help how to create your own world."],
+	var textOpts = ["I am Drake Lam...", "Full stack developer (.NET,Java Web)", "Knows android app development", "Game - Software developer", "Love developing apps and games.", "Share software, help how to create your own world."],
 		timeOut,
 		len = textOpts.length,
 		$writer = $('#writer'), 
