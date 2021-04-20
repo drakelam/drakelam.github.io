@@ -9,8 +9,8 @@
     <!-- Favicon -->
     <link href="img/favicon.png" rel="shortcut icon"/>
     <link rel="stylesheet" href="https://drakelam.github.io/button-demo/button.min.css">
-    <link rel="stylesheet" href="https://drakelam.github.io/button-demo/animate.min.css"/>
-    <link rel="stylesheet" href="https://drakelam.github.io/button-demo/style2.css"/>
+    <link rel="stylesheet" href="css/animate.min.css"/>
+    <link rel="stylesheet" href="css/style2.css"/>
 </head>
 <body>
 <!-- Page Preloder -->
